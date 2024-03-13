@@ -10,8 +10,14 @@
 
 		<input type="text" name="num1" placeholder="Enter Number1"> <br>
 		<input type="text" name="num2" placeholder="Enter Number2"> <br>
+		
 
 		<br />
+		
+		<input type="text" name="num1" placeholder="Enter Number1"> <br>
+		<input type="text" name="num2" placeholder="Enter Number2"> <br>
+		
+		
 		<br /> <select name="operations">
 			<option value="add" selected="selected">Add</option>
 			<option value="sub">Sub</option>
